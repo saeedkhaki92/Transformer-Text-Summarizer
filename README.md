@@ -22,3 +22,22 @@ Following packages should be installed on python 3:
 
 ![Alt Text](https://github.com/saeedkhaki92/Transformer-Text-Summarizer/blob/main/transformer_decoder_zoomin.png)
 
+
+
+
+
+## Dataset
+
+CNN/DailyMail non-anonymized summarization dataset is used in this project which can be found in `Tensorflow Dataset (TFDS)`. There are two features: 
+- article: text of news article, used as the document to be summarized 
+- highlights: joined text of highlights with around each highlight, which is the target summary.
+
+
+
+
+## Instructions
+
+You can train the model from scrath using the Google Colab notebooks. Please use `Transformer-Text-Summarizer.ipynb` for Trax version.
+
+
+
