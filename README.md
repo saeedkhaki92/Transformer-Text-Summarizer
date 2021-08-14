@@ -20,5 +20,5 @@ Following packages should be installed on python 3:
 
 ### Summarization with transformer model:
 
-![Alt Text](https://github.com/saeedkhaki92/Transformer-Text-Summarizer/blob/main/transformerNews.png)
+![Alt Text](https://github.com/saeedkhaki92/Transformer-Text-Summarizer/blob/main/transformer_decoder_zoomin.png)
 
